@@ -8,8 +8,8 @@
 #baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-url: "http://daattali.github.io/beautiful-jekyll"
-baseurl: "/beautiful-jekyll"
+url: "http://alex-tu-cc.github.io/new-theme-test"
+baseurl: "/new-theme-test"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
@@ -31,7 +31,7 @@ navbar-links:
   Resources:
     - Getting started: "getstarted"
     - Featured users: "featured-users"
-    - Project page: "https://github.com/daattali/beautiful-jekyll#readme"
+    - Project page: "https://alex-tu-cc.github.io/new-theme-test#readme"
   About me: "http://deanattali.com"
   Support me: "http://deanattali.com/aboutme/#feed-meeee"
 
